@@ -23,6 +23,34 @@ Bi-weekly DIF call notes on DWN specifications.
 - Andor Kesselman @andorsk email: andor@benri.io
 - Liran Cohen @lirancohen
 
+## DIF Meeting December 27, 2023
+
+- [Recording]()
+- Andor Kesselman
+- Alan Karp
+- Liran Cohen
+
+| Item                  | Segment                 | Time   | Owner    | Description                                  |
+|-----------------------|-------------------------|--------|----------|----------------------------------------------|
+| Intro                 | Intro                   | 5 min  | @liran   |                                              |
+| Agenda                | Companion Guide Updates | 10 min | @andorsk |                                              |
+| [Ecosystem Updates]() | Updates                 | 10 min | @andorsk |                                              |
+| Spec Alignment        | Spec Alignment          | 10 min | @andorsk |                                              |
+| Slack Updates         | Discussion Alignment    | 10 min | @andorsk |                                              |
+| Tags to Records       | Discussion Alignment    | 10 min | @liran   |                                              |
+| Issue Alignment       | Issue Alignment         | 10 min | @liran   |                                              |
+| Calls To Action       | Closing                 | 5 min  | @andorsk |                                              |
+
+### Notes: 
+
+- Tags and Subscriptions:
+ - https://hackmd.io/@lirancohen/H1O0GRtDa
+ - showAfter example can be used to filter posts.
+ - andor: minimally useful needs a query tag properties and query keys
+   - /get/tags /get/values/tags 
+ - liran: limitations to spec.
+ - Discussed challenges with Subscriptions
+
 ## DIF Meeting November 15, 2023
 
 - [Recording]()
