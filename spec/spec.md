@@ -785,7 +785,7 @@ experience for users.
     as the time the `RecordsWrite` was created by the DID owner or another permitted party.
   - The object ****MUST**** contain a `recordId` property, and its value ****MUST**** be the `recordId` of the logical record the entry corresponds with.
 
-A reference of the json schema can be found in the
+A reference to the JSON Schema can be found in the
 [schemas](https://github.com/decentralized-identity/decentralized-web-node/blob/main/schemas/json-schemas/records/records-read.json)
 directory of the specification.
 
